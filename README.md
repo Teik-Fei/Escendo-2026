@@ -253,7 +253,7 @@ angles = {
 Built for Escendo 2026 Hackathon
 
 ## 👥 Contributors
-- [@weiores](https://github.com/Weiores) - Database & Backend
+- [@weiores](https://github.com/Weiores) - Database & Backend   
 Team Escendo 2026
 
 ## 📧 Support
